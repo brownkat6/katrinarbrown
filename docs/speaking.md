@@ -3,7 +3,7 @@ layout: default
 title: Speaking
 ---
 
-I hold conviction in the necessity of the written and spoken word to convey anything information spanning technical content to geopolitical arguments both concisely and clearly. 
+I adhere to the necessity of the written and spoken word to convey information, spanning anything from technical intracacies to geopolitical dynamics, both concisely and clearly. 
 
 In high school, I was a [2x state champion](https://drive.google.com/file/d/14VMl5QaqvOlLlHkxkB4a2Fn4Xy9jzzQy/view) and 3x national qualifier in Public Forum Debate. I was awarded the Bob Brittain Debate Scholarship (2021), which is granted to the single top debater in Indiana each year.  
 
