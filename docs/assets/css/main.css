@@ -1,9 +1,9 @@
 /* Global styles */
 :root {
-    --primary-color: #0066cc;
-    --secondary-color: #4d94ff;
-    --text-color: #333;
-    --background-color: #fff;
+    --primary-color: #663399;    /* Medium dark purple */
+    --secondary-color: #9370DB;  /* Medium purple for hover states */
+    --text-color: #2D2D2D;      /* Dark gray for text */
+    --background-color: #fff;    /* White background */
     --max-width: 1200px;
 }
 
@@ -98,6 +98,7 @@ body {
 /* Main content styles */
 .content {
     padding: 2rem 0;
+    min-height: calc(100vh - 80px); /* Ensures content fills the viewport minus header height */
 }
 
 /* Footer styles */
