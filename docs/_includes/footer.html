@@ -1,0 +1,21 @@
+<footer class="site-footer">
+    <div class="footer-content">
+        <div class="social-links">
+            {% if site.social_links.github %}
+            <a href="https://github.com/{{ site.social_links.github }}" target="_blank">GitHub</a>
+            {% endif %}
+            
+            {% if site.social_links.linkedin %}
+            <a href="https://linkedin.com/in/{{ site.social_links.linkedin }}" target="_blank">LinkedIn</a>
+            {% endif %}
+            
+            {% if site.social_links.twitter %}
+            <a href="https://twitter.com/{{ site.social_links.twitter }}" target="_blank">Twitter</a>
+            {% endif %}
+        </div>
+        
+        <div class="footer-text">
+            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+        </div>
+    </div>
+</footer> 
