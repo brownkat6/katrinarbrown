@@ -1,7 +1,7 @@
 title: "Katrina R. Brown"
-description: "Computer Science PhD Student at Harvard University"
-url: "" # Add your website URL when deployed
-baseurl: ""
+description: "Computer Science Student at Harvard University"
+url: "katrinarbrown.com"
+baseurl: "/katrinarbrown"
 
 # Build settings
 markdown: kramdown
