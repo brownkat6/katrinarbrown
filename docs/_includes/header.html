@@ -1,11 +1,29 @@
 <header class="site-header">
     <div class="header-content">
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <div class="header-left">
+            <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </div>
         
         <nav class="site-nav">
+            <a href="{{ '/' | relative_url }}" class="nav-link">Home</a>
             <a href="{{ '/research' | relative_url }}" class="nav-link">Research</a>
+            <a href="{{ '/speaking' | relative_url }}" class="nav-link">Speaking</a>
             <a href="{{ '/teaching' | relative_url }}" class="nav-link">Teaching</a>
-            <a href="{{ '/writing' | relative_url }}" class="nav-link">Writing</a>
+            <a href="{{ '/work' | relative_url }}" class="nav-link">Work</a>
+            
+            <div class="social-icons">
+                {% if site.social_links.github %}
+                <a href="https://github.com/brownkat6/" target="_blank" class="social-icon">
+                    <i class="fab fa-github"></i>
+                </a>
+                {% endif %}
+                
+                {% if site.social_links.linkedin %}
+                <a href="https://www.linkedin.com/in/katrina-r-brown/" target="_blank" class="social-icon">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+                {% endif %}
+            </div>
         </nav>
     </div>
 </header> 

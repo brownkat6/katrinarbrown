@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Work Experience
+title: Industry Experience
 ---
 
 My professional experience spans software engineering, systems programming, quantitative trading, quantitative research, and ML Research Engineering across startups, Big Tech, and prop trading firms. 
