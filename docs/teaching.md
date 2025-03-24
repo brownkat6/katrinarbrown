@@ -13,7 +13,7 @@ As a 5-time teaching fellow, I ran 75 minute weekly sections (additional lecture
 
 As a board member for [Harvard Undergraduate Women in Computer Science](https://www.huwics.com/) (2022-2024), I oversaw a 15K budget to run a mentorships program connecting 200 under and upper classmen, and ran ~10 educational events for the Careers team attracting between 10-100 students each. I also helped organize [WeCode](https://www.wecodeconference.com/), the world's largest student-run undergraduate women in tech conference!
 
-As a mentor for [Veritas AI](https://www.veritasai.com/ai-scholars) (2022), I taught four cohorts of AI Scholars (100+ students) across 50 instructional hours the fundamentals of ML, linear/logistic regression, decision trees, random forest, etc in a 10-week program.
+As a mentor for [Veritas AI](https://www.veritasai.com/ai-scholars) (2022), I taught four cohorts of AI Scholars (100+ students) across 50 instructional hours the fundamentals of ML topics including linear/logistic regression, SVMs, and random forest.
 
 ### Developing Educational Programs
 
