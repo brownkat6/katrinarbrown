@@ -13,7 +13,9 @@ As a 5-time teaching fellow, I run 75 minute weekly sections (additional lecture
 
 As a board member for [Harvard Undergraduate Women in Computer Science](https://www.huwics.com/) (2022-2024), I oversaw a 15K budget to run a mentorships program connecting 200 under and upper classmen, and ran ~10 educational events for the Careers team attracting between 10-100 students each. I also helped organize [WeCode](https://www.wecodeconference.com/), the world's largest student-run undergraduate women in tech conference!
 
-As a mentor for [Veritas AI](https://www.veritasai.com/ai-scholars) (2022), I taught four cohorts of AI Scholars (100+ students) the fundamentals of ML, linear/logistic regression, decision trees, random forest, etc in a 10-week program spanning approximately 50 instructional hours.
+As a mentor for [Veritas AI](https://www.veritasai.com/ai-scholars) (2022), I taught four cohorts of AI Scholars (100+ students) across 50 instructional hours the fundamentals of ML, linear/logistic regression, decision trees, random forest, etc in a 10-week program.
+
+### Developing Educational Programs
 
 I had the privilege of serving as an afterschool mentor (2017-2021) to middle and high school students in Speech & Debate. During this time, I developed a new "[Middle School Debate](https://www.speechwire.com/files/15260-23-24INDIANAMSEVENTRULES.pdf)" event and instructional resources for debaters, coaches, and judges, all of which were adopted by the Indiana High School Forensics Association (IHSFA), introduced to several hundred Indiana middle-school students, and continue to run today.
 
