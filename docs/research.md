@@ -12,3 +12,5 @@ My prior research includes
 - **First author. ["Order Independence With Finetuning"](https://openreview.net/pdf?id=08E6XX0Yen)** (ICLR Bi-Align workshop 2025). Developed a finetuning method to ensure order-independent outcomes in language models, enhancing their robustness.
 - **Joint first author. ["Evolutionary Prompt Optimization Discovers Emergent Multimodal Reasoning Strategies in Vision-Language Models"](https://openreview.net/pdf?id=u8BO0NFF21)** (ICLR Reasoning and Planning workshop 2025). Co-led research using evolutionary optimization to uncover multimodal reasoning strategies in vision-language models.
 - **First author. ["Diverse Concept Proposals for Concept Bottleneck Models"](https://arxiv.org/pdf/2412.18059)** (ICML 2022). Proposed a method to enhance model interpretability through diverse concept generation in concept bottleneck models.
+
+I'm currently interested in inference time scheduling for reasoning models and the tradeoffs between reasoning and multi-agent debate. If you're a fan of these topics, let's chat!!
