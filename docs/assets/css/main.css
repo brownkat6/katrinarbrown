@@ -5,6 +5,7 @@
     --text-color: #2D2D2D;      /* Dark gray for text */
     --background-color: #fff;    /* White background */
     --max-width: 1200px;
+    --content-width: 66.67%;    /* 2/3 of the container width */
 }
 
 body {
@@ -99,6 +100,9 @@ body {
 .content {
     padding: 2rem 0;
     min-height: calc(100vh - 80px); /* Ensures content fills the viewport minus header height */
+    width: var(--content-width);
+    margin: 0 auto;  /* Center the content */
+    max-width: calc(var(--max-width) * 0.6667); /* Ensure content width doesn't exceed 2/3 of max-width */
 }
 
 /* Footer styles */
