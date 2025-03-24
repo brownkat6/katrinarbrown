@@ -12,5 +12,5 @@ A technical writeup documenting and analyzing the performance of the system can 
 * [NLP for Detecting Antisemitism](https://github.com/brownkat6/2020_Antisemitism_Hackathon): NLP techniques for classifying antisemitic tweets, placing 2nd in the 2020 IU Antisemitism Datathon and Hackathon. 
 
 ### Outreach
-* As a board member for [Harvard Undergraduate Women in Computer Science](https://www.huwics.com/) (2022-2024), I oversaw a 15K budget to run a mentorships program connecting 200 under and upper classmen, and ran educational events for the Careers team attracting between 10-100 students each. 
+* As a board member for [Harvard Undergraduate Women in Computer Science](https://www.huwics.com/) (2022-2024), I oversaw a 15K annual budget to run a mentorships program connecting 200 under and upper-classmen, and ran educational events for the Careers team attracting between 10-100 students each. 
 * I also helped run [WeCode](https://www.wecodeconference.com/), the world's largest student-run undergraduate women in tech conference!
