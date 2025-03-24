@@ -28,15 +28,18 @@ body {
     background-color: var(--background-color);
     padding: 1rem 0;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: flex;
+    justify-content: center;
 }
 
 .header-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: var(--max-width);
+    width: var(--content-width);
+    max-width: calc(var(--max-width) * 0.6667);
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0;
 }
 
 .header-left {
@@ -147,6 +150,14 @@ a:hover {
 strong, b {
     color: var(--primary-color);
     font-weight: bold;
+}
+
+/* Add styles for headers */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+    font-weight: bold;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
 }
 
 /* Responsive design */
