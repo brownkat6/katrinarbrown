@@ -3,7 +3,7 @@ layout: default
 title: Industry Experience
 ---
 
-My industry experience spans **software engineering, systems programming, quantitative trading, quantitative research, and ML research engineering** across startups, Big Tech, and prop trading firms.
+My industry experience spans **software engineering, systems programming, quantitative trading, quantitative research**, and **ML research engineering** across startups, Big Tech, and prop trading firms.
 
 * From May 2020-July 2021, I worked at [The Bee Corp](https://www.linkedin.com/company/the-bee-corp) as an ML research engineering Intern, where I trained MaskRCNN and DANN models on proprietary data.
 
