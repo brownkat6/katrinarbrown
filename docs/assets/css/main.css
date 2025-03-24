@@ -139,6 +139,12 @@ a:hover {
     color: var(--secondary-color);
 }
 
+/* Add styles for bold text */
+strong, b {
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .header-content {
