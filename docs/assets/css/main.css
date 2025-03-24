@@ -5,7 +5,7 @@
     --text-color: #2D2D2D;      /* Dark gray for text */
     --background-color: #fff;    /* White background */
     --max-width: 1200px;
-    --content-width: 66.67%;    /* 2/3 of the container width */
+    --content-width: 75%;       /* Changed from 66.67% to 75% */
 }
 
 body {
@@ -37,7 +37,7 @@ body {
     justify-content: space-between;
     align-items: center;
     width: var(--content-width);
-    max-width: calc(var(--max-width) * 0.6667);
+    max-width: calc(var(--max-width) * 0.75);  /* Changed from 0.6667 to 0.75 */
     margin: 0 auto;
     padding: 0;
 }
@@ -105,7 +105,7 @@ body {
     min-height: calc(100vh - 80px); /* Ensures content fills the viewport minus header height */
     width: var(--content-width);
     margin: 0 auto;  /* Center the content */
-    max-width: calc(var(--max-width) * 0.6667); /* Ensure content width doesn't exceed 2/3 of max-width */
+    max-width: calc(var(--max-width) * 0.75); /* Changed from 0.6667 to 0.75 */
 }
 
 /* Footer styles */
