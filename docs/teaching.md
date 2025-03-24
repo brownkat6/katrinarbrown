@@ -9,7 +9,7 @@ In Fall 2023, I was the Head Teaching Fellow for [CS 121](https://cs121.boazbara
 
 As a 5-time teaching fellow, I run 75 minute weekly sections (additional lectures reinforcing course material), grade assignments and exams, develop course material, and hold weekly office hours. I received a mean rating of 4.7/5.0 across 54 student reviews. 
 
-As a mentor for [Veritas AI](https://www.veritasai.com/ai-scholars) (2022), I taught four cohorts of AI Scholars (100+ students) across 50 instructional hours the fundamentals of ML topics including linear/logistic regression, SVMs, and random forest.
+As a mentor for [Veritas AI](https://www.veritasai.com/ai-scholars) (2022), I taught four cohorts of AI Scholars (100+ students) across 50 instructional hours the fundamentals of ML topics including linear/logistic regression, SVMs, and XGBoost models.
 
 ### Developing Educational Programs
 
