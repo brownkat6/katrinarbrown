@@ -11,6 +11,6 @@ I appreciate the art of the written and spoken word in conveying information con
 * I've also reflected publicly on one of my past internship experiences, which you can view [here](https://www.youtube.com/watch?v=feeIwfM_vVs). 
 
 ### Debate
-In high school, I was a [2x state champion](https://drive.google.com/file/d/14VMl5QaqvOlLlHkxkB4a2Fn4Xy9jzzQy/view) and 3x national qualifier in Public Forum Debate and Questions Debate. I was awarded the [Bob Brittain Debate Scholarship](https://www.inspeechanddebate.org/recognition/scholarships) (2021), which is granted to the single top debater in Indiana each year, and featured in the [Herald Times](https://drive.google.com/file/d/14VMl5QaqvOlLlHkxkB4a2Fn4Xy9jzzQy/view) as the first student from my school to win state. 
+In high school, I was a 2x state champion and 3x national qualifier in Public Forum Debate and Questions Debate. I was awarded the [Bob Brittain Debate Scholarship](https://www.inspeechanddebate.org/recognition/scholarships) (2021), which is granted to the single top debater in Indiana each year, and I was featured in the [Herald Times](https://drive.google.com/file/d/14VMl5QaqvOlLlHkxkB4a2Fn4Xy9jzzQy/view) as the first student from my school to win state. 
 
 Probe my thoughts on economic sanctions against Venezuela, China's Belt and Road Initiative, deep sea mining of rare earth elements, or anti-missile defense systems anytime! 
