@@ -3,7 +3,7 @@ layout: default
 title: Speaking
 ---
 
-I appreciate the art of the written and spoken word in conveying information concisely and clearly. 
+I appreciate the art of the written and spoken word in conveying information clearly. 
 
 ### Writing and Media
 * I've opined on [invasive tech](https://harvardtechnologyreview.com/2024/11/01/ai-glasses-unveil-privacy-risks-an-interview-with-the-creators-of-i-xray/) and [cool startups](https://harvardtechnologyreview.com/2024/12/17/from-dorm-room-to-boardroom-how-ron-nachum-and-sapien-are-redefining-ai-in-corporate-finance/) for the Harvard Tech Review, and discussed [the future of women in STEM](https://www.magbloom.com/2020/04/for-the-love-of-stem-a-conversation-about-the-future-of-women-in-technology/) with Bloom Magazine. 
