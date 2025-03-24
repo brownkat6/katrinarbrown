@@ -24,7 +24,7 @@ body {
 
 /* Header styles */
 .site-header {
-    background-color: var(--primary-color);
+    background-color: var(--background-color);
     padding: 1rem 0;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
@@ -45,7 +45,7 @@ body {
 }
 
 .site-title {
-    color: white;
+    color: var(--primary-color);
     text-decoration: none;
     font-size: 1.5rem;
     font-weight: bold;
@@ -61,7 +61,7 @@ body {
 }
 
 .nav-link {
-    color: white;
+    color: var(--primary-color);
     text-decoration: none;
     transition: color 0.3s ease;
     font-size: 1rem;
@@ -86,7 +86,7 @@ body {
 }
 
 .social-icon {
-    color: white;
+    color: var(--primary-color);
     font-size: 1.2rem;
     transition: color 0.3s ease;
 }
@@ -125,6 +125,17 @@ body {
 }
 
 .social-links a:hover {
+    color: var(--secondary-color);
+}
+
+/* Add styles for regular hyperlinks */
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
     color: var(--secondary-color);
 }
 
