@@ -1,11 +1,20 @@
 /* Global styles */
 :root {
+    /* Light theme variables (default) */
     --primary-color: #663399;    /* Medium dark purple */
     --secondary-color: #9370DB;  /* Medium purple for hover states */
     --text-color: #2D2D2D;      /* Dark gray for text */
     --background-color: #fff;    /* White background */
     --max-width: 1200px;
     --content-width: 75%;       /* Changed from 66.67% to 75% */
+}
+
+/* Dark theme variables */
+[data-theme="dark"] {
+    --primary-color: #9370DB;    /* Lighter purple for dark mode */
+    --secondary-color: #B19CD9;  /* Even lighter purple for hover states */
+    --text-color: #ffffff;       /* White text */
+    --background-color: #1a1a1a; /* Dark background */
 }
 
 body {
@@ -158,6 +167,21 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
+}
+
+/* Theme toggle button styles */
+.theme-toggle {
+    background: none;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+    color: var(--primary-color);
+    transition: color 0.3s ease;
+    font-size: 1.2rem;
+}
+
+.theme-toggle:hover {
+    color: var(--secondary-color);
 }
 
 /* Responsive design */
