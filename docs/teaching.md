@@ -5,7 +5,7 @@ title: Teaching
 
 ### Teaching Courses
 
-I quite enjoy teaching. In Fall 2023, I was the Head Teaching Fellow for [CS 121](https://cs121.boazbarak.org/syllabus/), our advanced theoretical computer science class with ~120 students. I've also TF'd [Stat 110](https://projects.iq.harvard.edu/stat110/home), our undergrad probability course, twice, as well as [CS 120](https://salil.seas.harvard.edu/class/cs120-intro-algorithms-and-their-limitations), our introductory algorithms course, and [CS 124](https://docs.google.com/spreadsheets/d/1rji0U07-zhpOa_-ywt0ruELNUz_r-wdT_2tlELduuVo/edit?gid=0#gid=0), our data structures and algorithms course, working with professors Boaz Barak, Joe Blitzstein, Madhu Sudan, and Adam Hesterberg.
+In Fall 2023, I was the Head Teaching Fellow for [CS 121](https://cs121.boazbarak.org/syllabus/), our advanced theoretical computer science class with ~120 students. I've also TF'd [Stat 110](https://projects.iq.harvard.edu/stat110/home), our undergrad probability course, twice, as well as [CS 120](https://salil.seas.harvard.edu/class/cs120-intro-algorithms-and-their-limitations), our introductory algorithms course, and [CS 124](https://docs.google.com/spreadsheets/d/1rji0U07-zhpOa_-ywt0ruELNUz_r-wdT_2tlELduuVo/edit?gid=0#gid=0), our data structures and algorithms course, working with professors Boaz Barak, Joe Blitzstein, Madhu Sudan, and Adam Hesterberg.
 
 As a 5-time teaching fellow, I run 75 minute weekly sections (additional lectures reinforcing course material), grade assignments and exams, develop course material, and hold weekly office hours. I received a mean rating of 4.7/5.0 across 54 student reviews. 
 
