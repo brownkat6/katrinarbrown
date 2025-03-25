@@ -5,7 +5,7 @@ title: Research
 
 My research interests currently center on fairness, robustness, and capabilities of language and multimodal foundation models. 
 
-I've been fortunate to work with Final Doshi-Velez at the Harvard Data to Actional Knowledge (DtAK) Lab, Cynthia Dwork at the Kempner Institute, and Lionel Levine at the Cornell Long-term AI Safety Research (LAISR) lab. 
+I've been fortunate to work with Finale Doshi-Velez at the Harvard Data to Actional Knowledge (DtAK) Lab, Cynthia Dwork at the Kempner Institute, and Lionel Levine at the Cornell Long-term AI Safety Research (LAISR) lab. 
 
 ### Select Publications
 - **Second author. ["Set-Based Prompting: Provably Solving the Language Model Order Dependency Problem"](https://arxiv.org/abs/2406.03919)** (NeurIPS 2024). Tackled order dependency issues in LLMs with a novel set-based prompting approach, improving reliability.
