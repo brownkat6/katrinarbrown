@@ -21,23 +21,33 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Theme switcher functionality
     const themeToggle = document.querySelector('.theme-toggle');
+    if (!themeToggle) return; // Exit if button not found
+
     const themeIcon = themeToggle.querySelector('i');
+    const root = document.documentElement;
     
-    // Check for saved theme preference
-    const savedTheme = localStorage.getItem('theme');
-    if (savedTheme) {
-        document.documentElement.setAttribute('data-theme', savedTheme);
-        updateThemeIcon(themeIcon, savedTheme);
-    }
+    // Check for saved theme preference, default to light if none found
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    root.setAttribute('data-theme', savedTheme);
+    updateThemeIcon(themeIcon, savedTheme);
     
     // Toggle theme on button click
     themeToggle.addEventListener('click', () => {
-        const currentTheme = document.documentElement.getAttribute('data-theme');
+        const currentTheme = root.getAttribute('data-theme');
         const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
         
-        document.documentElement.setAttribute('data-theme', newTheme);
+        // Add transition class
+        document.body.classList.add('theme-transition');
+        
+        // Update theme
+        root.setAttribute('data-theme', newTheme);
         localStorage.setItem('theme', newTheme);
         updateThemeIcon(themeIcon, newTheme);
+        
+        // Remove transition class after animation completes
+        setTimeout(() => {
+            document.body.classList.remove('theme-transition');
+        }, 300);
     });
 });
 

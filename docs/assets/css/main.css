@@ -10,11 +10,19 @@
 }
 
 /* Dark theme variables */
-[data-theme="dark"] {
+:root[data-theme="dark"] {
     --primary-color: #9370DB;    /* Lighter purple for dark mode */
     --secondary-color: #B19CD9;  /* Even lighter purple for hover states */
     --text-color: #ffffff;       /* White text */
     --background-color: #1a1a1a; /* Dark background */
+}
+
+/* Theme transition */
+.theme-transition,
+.theme-transition *,
+.theme-transition *:before,
+.theme-transition *:after {
+    transition: all 0.3s ease-in-out !important;
 }
 
 body {
