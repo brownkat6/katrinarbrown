@@ -101,7 +101,15 @@ async function initMap() {
         zoom: 2,  // Zoomed out further to show Europe
         center: { lat: 30.0, lng: -45.0 },  // Centered in the Atlantic to show both continents
         mapId: "TRAVEL_MAP",
+        mapTypeId: google.maps.MapTypeId.SATELLITE,  // Set default to satellite view
+        mapTypeControl: false,  // Remove the Map/Satellite toggle
+        labelingEnabled: false,  // Disable labels
         styles: [
+            {
+                featureType: "all",
+                elementType: "labels",
+                stylers: [{ visibility: "off" }]  // Hide all labels
+            },
             {
                 featureType: "all",
                 elementType: "labels.text.fill",
