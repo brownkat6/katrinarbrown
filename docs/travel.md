@@ -4,7 +4,7 @@ title: Travel
 ---
 
 <div class="travel-container">
-    <h1>Places I've Been</h1>
+    <h3>Places I've Been</h3>
     <div id="map" style="width: 100%; height: 600px;"></div>
 </div>
 
@@ -150,7 +150,13 @@ async function initMap() {
 </script>
 
 <!-- Add Google Maps JavaScript API -->
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"></script>
+<!-- To make this map work:
+1. Go to https://console.cloud.google.com
+2. Create a project and enable Maps JavaScript API
+3. Create credentials (API key)
+4. Replace YOUR_API_KEY below with your actual API key
+5. Secure your key by restricting it to your domain -->
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDa7VBVaA0Kpk5IbM4tjce4QKHqvcsxWPI&callback=initMap"></script>
 
 <style>
 .travel-container {
