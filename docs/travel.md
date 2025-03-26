@@ -25,7 +25,7 @@ const locations = [
         title: "Bloomington, Indiana",
         description: "Hometown (2006-2021)",
         dates: "2006-2021",
-        details: ""
+        details: "So much corn"
     },
     {
         position: { lat: 51.7520, lng: -1.2577 },
@@ -67,7 +67,7 @@ const locations = [
         title: "Lancaster, Pennsylvania",
         description: "Voice of the Apostles Conference",
         dates: "October 2024",
-        details: "Attended VoA 2025"
+        details: "Attended VoA 2024"
     },
     {
         position: { lat: 21.3069, lng: -157.8583 },
