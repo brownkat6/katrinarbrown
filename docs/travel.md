@@ -25,7 +25,7 @@ const locations = [
         title: "Bloomington, Indiana",
         description: "",
         dates: "2006-2021",
-        details: "Hometown. So much corn"
+        details: "Hometown. So much corn. "
     },
     {
         position: { lat: 51.7520, lng: -1.2577 },
@@ -39,21 +39,21 @@ const locations = [
         title: "Cambridge, Massachusetts",
         description: "",
         dates: "2021-2025",
-        details: "Harvard University"
+        details: "Harvard University (Undergraduate)"
     },
     {
         position: { lat: 41.8781, lng: -87.6298 },
         title: "Chicago, Illinois",
-        description: "Jump Trading Internship (2024)",
+        description: "",
         dates: "2024",
-        details: "Jump Trading Quant Research Internship (2024)"
+        details: "Jump Trading quant research spring internship"
     },
     {
         position: { lat: 40.7128, lng: -74.0060 },
         title: "New York City, New York",
-        description: "Summer Internships",
+        description: "",
         dates: "Summers 2022, 2023, 2024",
-        details: "Multiple winter and summer internship in the heart of midtown or FiDi NYC."
+        details: "Melange of winter and summer internship in Long Island City, Midtown and FiDi NYC."
     },
     {
         position: { lat: 49.2827, lng: -123.1207 },
@@ -127,9 +127,9 @@ async function initMap() {
         // Create info window for each marker
         const infowindow = new google.maps.InfoWindow({
             content: `
-                <div style="color: #333; padding: 10px;">
-                    <h3 style="margin: 0 0 5px 0;">${location.title}</h3>
-                    <p style="margin: 0 0 5px 0;"><strong>${location.dates}</strong></p>
+                <div style="color: #333; padding: 6px;">
+                    <h3 style="margin: 0 0 2px 0;">${location.title}</h3>
+                    <p style="margin: 0 0 2px 0;"><strong>${location.dates}</strong></p>
                     <p style="margin: 0;">${location.details}</p>
                 </div>
             `
