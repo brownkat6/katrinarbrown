@@ -105,6 +105,7 @@ async function initMap() {
         mapTypeControl: false,  // Remove the Map/Satellite toggle
         labelingEnabled: false,  // Disable labels
         disableDefaultUI: true,  // Disable all controls
+        zoomControl: true,  // But keep zoom controls
         styles: [
             {
                 featureType: "all",
