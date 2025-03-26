@@ -46,14 +46,14 @@ const locations = [
         title: "Chicago, Illinois",
         description: "",
         dates: "2024",
-        details: "Jump Trading quant research spring internship"
+        details: "Jump Trading spring internship"
     },
     {
         position: { lat: 40.7128, lng: -74.0060 },
         title: "New York City, New York",
         description: "",
-        dates: "Summers 2022, 2023, 2024",
-        details: "Melange of winter and summer internship in Long Island City, Midtown and FiDi NYC."
+        dates: "2022, 2023, 2024",
+        details: "Winter and summer internships at Meta, Five Rings, Hudson River Trading in Long Island City, Midtown and FiDi NYC."
     },
     {
         position: { lat: 49.2827, lng: -123.1207 },
