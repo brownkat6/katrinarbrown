@@ -104,6 +104,7 @@ async function initMap() {
         mapTypeId: google.maps.MapTypeId.SATELLITE,  // Set default to satellite view
         mapTypeControl: false,  // Remove the Map/Satellite toggle
         labelingEnabled: false,  // Disable labels
+        disableDefaultUI: true,  // Disable all controls
         styles: [
             {
                 featureType: "all",
