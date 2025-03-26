@@ -4,7 +4,7 @@ title: Courses
 ---
 
 ### Coursework
-Harvard University: Systems Programming, Data Structures & Algorithms, Database Systems, Machine Learning, Reinforcement Learning, Sequential Decision Making, Foundation Models, Theoretical Computer Science, Algorithms at the End of the Wire, Distributed Systems, Probability Theory, Statistical Inference, Linear Models, Time Series, Generalized Linear Models, Linear Algebra, Real Analysis, Abstract Algebra, Topology
+Harvard University: Systems Programming, Data Structures & Algorithms, Database Systems, Machine Learning, Reinforcement Learning, Sequential Decision Making, Foundation Models, Theoretical Computer Science, Algorithms at the End of the Wire, Distributed Systems, Probability Theory, Statistical Inference, Linear Models, Time Series, Generalized Linear Models, Linear Algebra, Multivariable Calculus, Real Analysis, Abstract Algebra, Topology
 
 #### Usual Gamut of Academic Accolades:
  * Harvard University GPA: 3.99/4.0
