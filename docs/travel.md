@@ -16,16 +16,16 @@ const locations = [
     {
         position: { lat: 38.6270, lng: -90.1994 },
         title: "St. Louis, Missouri",
-        description: "Birthplace (2003-2006)",
+        description: "",
         dates: "2003-2006",
-        details: ""
+        details: "Birthplace"
     },
     {
         position: { lat: 39.1653, lng: -86.5264 },
         title: "Bloomington, Indiana",
-        description: "Hometown (2006-2021)",
+        description: "",
         dates: "2006-2021",
-        details: "So much corn"
+        details: "Hometown. So much corn"
     },
     {
         position: { lat: 51.7520, lng: -1.2577 },
@@ -37,7 +37,7 @@ const locations = [
     {
         position: { lat: 42.3736, lng: -71.1097 },
         title: "Cambridge, Massachusetts",
-        description: "College (2021-2025)",
+        description: "",
         dates: "2021-2025",
         details: "Harvard University"
     },
@@ -46,7 +46,7 @@ const locations = [
         title: "Chicago, Illinois",
         description: "Jump Trading Internship (2024)",
         dates: "2024",
-        details: "Quant research internship at Jump Trading."
+        details: "Jump Trading Quant Research Internship (2024)"
     },
     {
         position: { lat: 40.7128, lng: -74.0060 },
@@ -58,37 +58,37 @@ const locations = [
     {
         position: { lat: 49.2827, lng: -123.1207 },
         title: "Vancouver, Canada",
-        description: "NeurIPS Conference",
+        description: "",
         dates: "December 2024",
-        details: "Presented at the NeurIPS conference."
+        details: "NeurIPS Conference"
     },
     {
         position: { lat: 40.0379, lng: -76.3055 },
         title: "Lancaster, Pennsylvania",
-        description: "Voice of the Apostles Conference",
+        description: "",
         dates: "October 2024",
-        details: "Attended VoA 2024"
+        details: "Voice of the Apostles Conference"
     },
     {
         position: { lat: 21.3069, lng: -157.8583 },
         title: "Kona, Hawaii",
         description: "Vacation",
         dates: "2024",
-        details: "Eating pizza in a hot tub with friends."
+        details: "Eating pizza in a hot tub with friends on vacation."
     },
     {
         position: { lat: 18.1096, lng: -77.2975 },
         title: "Jamaica",
-        description: "Vacation",
+        description: "",
         dates: "2025",
-        details: "Featuring a taxi driver pulling a knife on myself and a friend."
+        details: "Vacation featuring a taxi driver pulling a knife on myself and a friend."
     },
     {
         position: { lat: 32.0853, lng: 34.7818 },
         title: "Israel",
-        description: "Harvard Israel Trek",
+        description: "",
         dates: "Spring 2025",
-        details: "Traveler in the Harvard Israel Trek program."
+        details: "Harvard Israel Trek"
     }
 ];
 
