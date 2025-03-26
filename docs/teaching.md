@@ -15,4 +15,4 @@ As a mentor for [Veritas AI](https://www.veritasai.com/ai-scholars) (2022), I ta
 
 I mentored middle and high school students afterschool in Speech & Debate (2017-2021). During this time, I developed a new "[Middle School Debate](https://www.speechwire.com/files/15260-23-24INDIANAMSEVENTRULES.pdf)" event and instructional resources for debaters, coaches, and judges, all of which were adopted by the Indiana High School Forensics Association (IHSFA), introduced to several hundred Indiana middle-school students, and continue to run today.
 
-I also led a 4-person team at [IndianaComputes!](https://indianacomputes.net/) (2021), an Indiana University initiative funded by the Department of Education, to pilot Indiana's first K-12 data science curriculum and distribute this material across 4 elementary schools in Indiana.
+I also led a 4-person team at [IndianaComputes!](https://indianacomputes.net/) (2021), an Indiana University initiative funded by the Department of Education, to pilot Indiana's first K-12 data science curriculum and distribute this material across 4 secondary schools in Indiana.
