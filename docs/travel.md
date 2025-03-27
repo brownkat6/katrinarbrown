@@ -62,13 +62,13 @@ const locations = [
         dates: "December 2024",
         details: "NeurIPS Conference"
     },
-    {
-        position: { lat: 40.0379, lng: -76.3055 },
-        title: "Lancaster, Pennsylvania",
-        description: "",
-        dates: "October 2024",
-        details: "Voice of the Apostles Conference"
-    },
+    //{
+    //    position: { lat: 40.0379, lng: -76.3055 },
+    //    title: "Lancaster, Pennsylvania",
+    //    description: "",
+    //    dates: "October 2024",
+    //    details: "Voice of the Apostles Conference"
+    //},
     {
         position: { lat: 21.3069, lng: -157.8583 },
         title: "Kona, Hawaii",
