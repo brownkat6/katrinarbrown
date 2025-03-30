@@ -232,11 +232,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .profile-image {
-    width: 200px;  /* Reduced from 300px */
+    width: 30%;  /* Changed from 200px to take up available space */
     height: auto;
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    margin-top: 1rem;  /* Add some top margin */
+    margin-top: 1rem;
     object-fit: contain;
 }
 
@@ -250,8 +250,8 @@ h1, h2, h3, h4, h5, h6 {
     }
     
     .profile-image {
-        width: 100%;
-        max-width: 200px;  /* Reduced from 300px */
+        width: 100%;  /* Take full width on mobile */
+        max-width: 300px;  /* But cap it at a reasonable size */
         margin: 1rem auto;
     }
-} 
+}
