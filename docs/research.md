@@ -8,7 +8,7 @@ My research interests currently center on fairness, robustness, and capabilities
 I've been fortunate to be mentored by Finale Doshi-Velez at the Harvard Data to Actionable Knowledge (DtAK) Lab, Cynthia Dwork at the Harvard Kempner Institute, and Lionel Levine at the Cornell Long-term AI Safety Research (LAISR) lab. 
 
 ### Select Publications
-- Reid McIlroy and Katrina Brown, et. al. ["Set-Based Prompting: Provably Solving the Language Model Order Dependency Problem"](https://arxiv.org/abs/2406.03919). *NeurIPS 2024.*
+- Reid McIlroy and Katrina Brown et. al. ["Set-Based Prompting: Provably Solving the Language Model Order Dependency Problem"](https://arxiv.org/abs/2406.03919). *NeurIPS 2024.*
 - Katrina Brown and Reid McIlroy. ["Order Independence With Finetuning"](https://openreview.net/pdf?id=08E6XX0Yen). *Bi-Align workshop, ICLR 2025.*
 - Sid Bharthulwar<sup>*</sup>, John Rho<sup>*</sup>, Katrina Brown<sup>*</sup> ["Evolutionary Prompt Optimization Discovers Emergent Multimodal Reasoning Strategies in Vision-Language Models"](https://openreview.net/pdf?id=u8BO0NFF21) *Reasoning and Planning workshop, ICLR 2025.*
 - Katrina Brown, Marton Havasi, Finale Doshi-Velez. ["Diverse Concept Proposals for Concept Bottleneck Models"](https://arxiv.org/pdf/2412.18059). *HMCaT workshop, ICML 2022.*
