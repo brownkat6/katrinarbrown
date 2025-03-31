@@ -17,4 +17,4 @@ I've been fortunate to be mentored by Finale Doshi-Velez at the Harvard Data to 
 
 I'm currently interested in inference time scheduling for reasoning models and the tradeoffs between reasoning and multi-agent debate. 
 
-If you're a fan of these topics, let's chat!!
+If you're a fan of these topics, let's chat!
