@@ -10,10 +10,10 @@ I've been fortunate to be mentored by Finale Doshi-Velez at the Harvard Data to 
 ### Select Publications
 - Reid McIlroy and Katrina Brown et. al. ["Set-Based Prompting: Provably Solving the Language Model Order Dependency Problem"](https://arxiv.org/abs/2406.03919). In *NeurIPS 2024.*
 - Katrina Brown and Reid McIlroy. ["Order Independence With Finetuning"](https://openreview.net/pdf?id=08E6XX0Yen). In *Bi-Align Workshop, ICLR 2025.*
-- Sid Bharthulwar^*, John Rho^*, and Katrina Brown^*. ["Evolutionary Prompt Optimization Discovers Emergent Multimodal Reasoning Strategies in Vision-Language Models"](https://openreview.net/pdf?id=u8BO0NFF21). In *Reasoning and Planning Workshop, ICLR 2025.*
+- Sid Bharthulwar<sup>*</sup> , John Rho<sup>*</sup> , and Katrina Brown<sup>*</sup> . ["Evolutionary Prompt Optimization Discovers Emergent Multimodal Reasoning Strategies in Vision-Language Models"](https://openreview.net/pdf?id=u8BO0NFF21). In _Reasoning and Planning Workshop, ICLR 2025._
 - Katrina Brown, Marton Havasi, Finale Doshi-Velez. ["Diverse Concept Proposals for Concept Bottleneck Models"](https://arxiv.org/pdf/2412.18059). In *Human Machine Collaboration and Teaming Workshop, ICML 2022.*
 
-^* denotes equal contribution. 
+<sup>*</sup> denotes equal contribution. 
 
 I'm currently interested in inference time scheduling for reasoning models and the tradeoffs between reasoning and multi-agent debate. 
 
