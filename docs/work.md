@@ -9,10 +9,10 @@ My industry experience spans **software engineering, systems programming, quanti
 
 * (Summer 2022) [Meta](https://www.meta.com/) software engineering.
 
-* (Spring 2024) [Jump Trading](https://www.jumptrading.com/) quantitative research.
+* (Summer 2023) [Hudson River Trading](https://www.hudsonrivertrading.com/) core Development (systems programming).
 
 * (Winter 2024) [Five Rings](https://fiverings.com/) quantitative trading.
 
-* (Summer 2023) [Hudson River Trading](https://www.hudsonrivertrading.com/) core Development (systems programming).
+* (Spring 2024) [Jump Trading](https://www.jumptrading.com/) quantitative research.
 
 * (Summer 2024) [Hudson River Trading](https://www.hudsonrivertrading.com/) Algorithm Development (Quantitative Research).
