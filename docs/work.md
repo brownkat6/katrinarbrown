@@ -15,4 +15,4 @@ My industry experience spans **software engineering, systems programming, quanti
 
 * (Summer 2023) [Hudson River Trading](https://www.hudsonrivertrading.com/) (HRT) core Development (systems programming).
 
-* (Summer 2024 HRT Algorithm Development (Quantitative Research).
+* (Summer 2024) HRT Algorithm Development (Quantitative Research).
