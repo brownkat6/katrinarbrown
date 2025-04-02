@@ -6,7 +6,6 @@ title: Home
 <div class="profile-container">
     <div class="profile-content">
 {% capture my_content %}
-Sid Bharthulwar<sup>*</sup>, John Rho<sup>*</sup>, Katrina Brown<sup>*</sup>
 
 Hi! I'm Katrina, an undergraduate senior at Harvard University, where I'm obtaining an undergraduate degree in Computer Science and Math, as well as a masters in Statistics. On campus, I conduct machine learning research at the Harvard Kempner Institute, where I'm interested in **fairness, robustness, and capabilities** of **language and multimodal foundation models**.
 
