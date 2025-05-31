@@ -15,5 +15,5 @@ Reach out to **katrinabrown [AT] college.harvard.edu** if you'd like to say hell
 {% endcapture %}
 {{ my_content | markdownify }}
     </div>
-    <img src="{{ '/assets/Brown_Katrina Ruth.png' | relative_url }}" alt="Katrina Ruth Brown" class="profile-image">
+    <img src="{{ '/assets/KatrinaBrownGrad2025Cropped.jpg' | relative_url }}" alt="Katrina Ruth Brown" class="profile-image">
 </div>
