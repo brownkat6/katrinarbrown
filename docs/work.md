@@ -16,3 +16,5 @@ My industry experience spans **software engineering, systems programming, quanti
 * (Spring 2024) [Jump Trading](https://www.jumptrading.com/) quantitative research.
 
 * (Summer 2024) [Hudson River Trading](https://www.hudsonrivertrading.com/) algorithm development (quantitative research).
+
+* (June 2025-present) [Anthropic](https://www.anthropic.com/) researcher on pretraining.
