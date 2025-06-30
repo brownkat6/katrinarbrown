@@ -11,7 +11,7 @@ Hi! I'm Katrina, a researcher at Anthropic. I recently [graduated magna cum laud
 
 I hail from the cornfields of Indiana, and since then I've [passed my time]({{ '/travel' | relative_url }}) living in San Francisco, Cambridge MA, NYC, and Chicago. In my spare moments, I love to hike the trails of SF, road bike in Colorado, read Substack voraciously, and infuse baked goods and smoothies with vegetables. My creative side manifests in violin, which I studied seriously under Mimi Zweig at the IU Jacobs School of Music from 5-16 years old, and more sporadically since. 
 
-Reach out to **katrinabrown [AT] college.harvard.edu** if you'd like to say hello!
+Reach out to **katr.rbrown [AT] gmail.com** if you'd like to say hello!
 {% endcapture %}
 {{ my_content | markdownify }}
     </div>
