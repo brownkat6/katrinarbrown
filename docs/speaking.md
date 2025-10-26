@@ -4,7 +4,7 @@ title: Writing
 ---
 
 ### Storytime
-I'm hobbyist blogging some of my shenanigans.
+I'm hobbyist blogging some of my shenanigans on substack.
 * [speedrunning japan while deathly ill](https://open.substack.com/pub/katrinarbrown/p/storytime-speedrunning-japan-while?r=5l6hl1&utm_campaign=post&utm_medium=web)
 
 ### Writing and Media
