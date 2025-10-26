@@ -3,8 +3,6 @@ layout: default
 title: Research
 ---
 
-My research interests currently center on fairness, robustness, and capabilities of language and multimodal foundation models. 
-
 I've been fortunate to be mentored by Finale Doshi-Velez at the Harvard Data to Actionable Knowledge (DtAK) Lab, Cynthia Dwork at the Harvard Kempner Institute, and Lionel Levine at the Cornell Long-term AI Safety Research (LAISR) lab. 
 
 ### Select Publications
@@ -15,7 +13,5 @@ I've been fortunate to be mentored by Finale Doshi-Velez at the Harvard Data to 
 - Katrina Brown, Marton Havasi, Finale Doshi-Velez. ["Diverse Concept Proposals for Concept Bottleneck Models"](https://arxiv.org/pdf/2412.18059). In *Human Machine Collaboration and Teaming Workshop, ICML 2022, Hawaii.*
 
 <sup>*</sup> denotes equal contribution. 
-
-I'm currently interested in inference time scheduling for reasoning models and the tradeoffs between reasoning and multi-agent debate. 
 
 If you're a fan of these topics, let's chat!
