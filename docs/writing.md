@@ -7,6 +7,10 @@ title: Writing
 I hobbyist-blog some of my favorite life stories on substack.
 * [speedrunning japan while deathly ill](https://substack.com/home/post/p-177126064)
 * [i think i almost got knifed in jamaica](https://open.substack.com/pub/katrinarbrown/p/storytime-nearly-knifed-in-jamaica?r=5l6hl1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+* [the summer i had three jobs](https://open.substack.com/pub/katrinarbrown/p/storytime-the-summer-i-had-3-jobs?r=5l6hl1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+* [i am so good at throwing surprise birthday parties](https://substack.com/@katrinarbrown/p-177145825?utm_source=profile&utm_medium=reader2)
+* [would you try my mystery smoothie?](https://substack.com/@katrinarbrown/p-177146875?utm_source=profile&utm_medium=reader2)
+* [what i learned from my ancestryDNA report](https://substack.com/@katrinarbrown/p-177147783?utm_source=profile&utm_medium=reader2)
 
 ### Writing and Media
 * I've opined on [invasive tech](https://harvardtechnologyreview.com/2024/11/01/ai-glasses-unveil-privacy-risks-an-interview-with-the-creators-of-i-xray/) and [cool startups](https://harvardtechnologyreview.com/2024/12/17/from-dorm-room-to-boardroom-how-ron-nachum-and-sapien-are-redefining-ai-in-corporate-finance/) for the Harvard Tech Review, and discussed [the future of women in STEM](https://www.magbloom.com/2020/04/for-the-love-of-stem-a-conversation-about-the-future-of-women-in-technology/) with Bloom Magazine. 
