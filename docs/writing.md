@@ -4,7 +4,7 @@ title: Writing
 ---
 
 ### Storytime
-I hobby blog some of my favorite life stories on substack.
+I hobbyist-blog some of my favorite life stories on substack.
 * [speedrunning japan while deathly ill](https://substack.com/home/post/p-177126064)
 
 ### Writing and Media
