@@ -14,7 +14,7 @@ plugins:
 header_pages:
   - index.md
   - research.md
-  - speaking.md
+  - writing.md
   - teaching.md
   - work.md
 
