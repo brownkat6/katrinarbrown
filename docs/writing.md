@@ -4,7 +4,7 @@ title: Writing
 ---
 
 ### Storytime
-I hobbyist-blog some of my favorite life stories on substack.
+I hobbyist-blog some of my favorite life stories on substack. Here's a smattering of fun ones.
 * [speedrunning japan while deathly ill](https://substack.com/home/post/p-177126064)
 * [i think i almost got knifed in jamaica](https://open.substack.com/pub/katrinarbrown/p/storytime-nearly-knifed-in-jamaica?r=5l6hl1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 * [the summer i had three jobs](https://open.substack.com/pub/katrinarbrown/p/storytime-the-summer-i-had-3-jobs?r=5l6hl1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
