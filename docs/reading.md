@@ -11,7 +11,7 @@ title: Reading
 - *Living a Life of Fire*
 - *America's Pastor*
 - *Superfood Smoothies: 100 Delicious, Energizing and Nutrient-Dense Recipes*
-- *Best State Every. A florida man defends his homeland*
+- *Best State Ever. A florida man defends his homeland*
 - *Dave Barry Slept Here: A Sort of History of the United States*
 - *Morning after the Revolution*
 - *Bad Therapy: Why the kids aren't growing up*
