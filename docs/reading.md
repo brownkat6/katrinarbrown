@@ -4,7 +4,7 @@ title: Reading
 ---
 
 ### Favorites from the last ~year
-- *Everything on Rob Henderson's substack*
+- Everything on *Rob Henderson's substack*
 - *The Body Keeps the Score*
 - *The Wager*
 - *Troubled*
