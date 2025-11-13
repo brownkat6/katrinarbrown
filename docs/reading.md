@@ -3,7 +3,7 @@ layout: default
 title: Reading
 ---
 
-### Favorites from the last ~year
+### Favorite reads from the last ~year
 - Everything on *Rob Henderson's substack*
 - *The Body Keeps the Score*
 - *The Wager*
