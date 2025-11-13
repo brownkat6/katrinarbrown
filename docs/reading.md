@@ -16,7 +16,7 @@ title: Reading
 - *Morning after the Revolution*
 - *Bad Therapy: Why the kids aren't growing up*
 - *Blink*
-- *The Soul of an oOctopus*
+- *The Soul of an Octopus*
 - *The Tipping Point*
 - *Outliers*
 - *The Circle*
