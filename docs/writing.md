@@ -8,7 +8,6 @@ I hobbyist-blog some of my favorite life stories on substack.
 * [speedrunning japan while deathly ill](https://substack.com/home/post/p-177126064)
 * [i think i almost got knifed in jamaica](https://open.substack.com/pub/katrinarbrown/p/storytime-nearly-knifed-in-jamaica?r=5l6hl1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 * [the summer i had three jobs](https://open.substack.com/pub/katrinarbrown/p/storytime-the-summer-i-had-3-jobs?r=5l6hl1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
-* [i am so good at throwing surprise birthday parties](https://substack.com/@katrinarbrown/p-177145825?utm_source=profile&utm_medium=reader2)
 * [would you try my mystery smoothie?](https://substack.com/@katrinarbrown/p-177146875?utm_source=profile&utm_medium=reader2)
 * [what i learned from my ancestryDNA report](https://substack.com/@katrinarbrown/p-177147783?utm_source=profile&utm_medium=reader2)
 
