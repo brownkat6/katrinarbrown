@@ -16,11 +16,11 @@ title: Reading
 - *Morning after the Revolution*
 - *Bad Therapy: Why the kids aren't growing up*
 - *Blink*
-- *The soul of an octopus*
+- *The Soul of an oOctopus*
 - *The Tipping Point*
 - *Outliers*
 - *The Circle*
-- *How to win friends and influence people*
+- *How to Win Friends and Influence People*
 - *The Coddling of the American Mind*
 - *The Darwin Awards*
 - *Chip War*
