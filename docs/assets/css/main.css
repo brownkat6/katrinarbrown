@@ -37,8 +37,8 @@ body {
 
 .container {
     max-width: var(--max-width);
-    margin: 0 auto;
-    padding: 0 20px;
+    margin: 0;
+    padding: 0 2rem;
 }
 
 /* Header styles */
@@ -131,11 +131,11 @@ body {
 
 /* Main content styles */
 .content {
-    padding: 2rem 0;
+    padding: 1rem 0;
     min-height: calc(100vh - 80px); /* Ensures content fills the viewport minus header height */
-    width: var(--content-width);
-    margin: 0 auto;  /* Center the content */
-    max-width: calc(var(--max-width) * 0.75); /* Changed from 0.6667 to 0.75 */
+    width: 100%;
+    margin: 0;
+    max-width: none;
 }
 
 /* Footer styles */
@@ -213,6 +213,14 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 768px) {
     body {
         margin-left: 0; /* remove sidebar spacing on mobile */
+    }
+
+    .container {
+        padding: 0 20px;
+    }
+
+    .content {
+        padding: 1.5rem 0;
     }
 
     .header-content {
