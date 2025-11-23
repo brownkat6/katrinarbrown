@@ -5,6 +5,7 @@ title: Reading
 
 ### Favorite reads from the last ~year
 - Everything on *Rob Henderson's substack*
+- *The Accidental President*
 - *Hard Lessons from the Hurt Business*
 - *The Body Keeps the Score*
 - *The Wager*
