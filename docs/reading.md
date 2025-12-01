@@ -30,4 +30,3 @@ title: Reading
 - *Chip War*
 - *Empire of Pain*
 - *American Kingpin*
-- *Going Infinite* 
