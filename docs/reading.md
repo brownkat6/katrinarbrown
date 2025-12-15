@@ -6,6 +6,7 @@ title: Reading
 ### Favorite reads from the last ~year
 - Everything on *Rob Henderson's substack*
 - *The Atlantic*'s family section op-eds
+- *A Time to Betray*
 - *The Spy and the Traitor*
 - *The Accidental President*
 - *Hard Lessons from the Hurt Business*
