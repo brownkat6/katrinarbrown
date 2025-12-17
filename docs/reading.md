@@ -6,6 +6,7 @@ title: Reading
 ### Favorite reads from the last ~year
 - Everything on *Rob Henderson's substack*
 - *The Atlantic*'s family section op-eds
+- *1929*
 - *A Time to Betray*
 - *Everything is Tuberculosis*
 - *The Spy and the Traitor*
