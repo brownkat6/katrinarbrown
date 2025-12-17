@@ -6,7 +6,7 @@ title: Reading
 ### Favorite reads from the last ~year
 - Everything on *Rob Henderson's substack*
 - *The Atlantic*'s family section op-eds
-- *1929*
+- *1929: Inside the Greatest Crash in Wall Street History*
 - *A Time to Betray*
 - *Everything is Tuberculosis*
 - *The Spy and the Traitor*
