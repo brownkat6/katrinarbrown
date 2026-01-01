@@ -3,7 +3,8 @@ layout: default
 title: Reading
 ---
 ### Favorite reads of 2026
-- ???
+- tbd :)
+
 ### Favorite reads of 2025
 - Everything on *Rob Henderson's substack*
 - *The Atlantic*'s family section op-eds
@@ -17,6 +18,7 @@ title: Reading
 - *The Body Keeps the Score*
 - *The Wager*
 - *Troubled*
+
 ### Favorite reads of 2024
 - *Living a Life of Fire*
 - *America's Pastor*
