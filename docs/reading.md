@@ -16,6 +16,7 @@ title: Reading
 - *The Body Keeps the Score*
 - *The Wager*
 - *Troubled*
+
 Bonus content:  
 - Everything on *Rob Henderson's substack*
 - *The Atlantic*'s family section op-eds
