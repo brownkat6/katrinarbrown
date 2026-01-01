@@ -17,7 +17,7 @@ title: Reading
 - *The Wager*
 - *Troubled*
 
-Bonus content:  
+plus the bonus content:  
 - Everything on *Rob Henderson's substack*
 - *The Atlantic*'s family section op-eds
 
