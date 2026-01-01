@@ -5,9 +5,7 @@ title: Reading
 ### Favorite reads of 2026
 - tbd :)
 
-### Favorite reads of 2025
-- Everything on *Rob Henderson's substack*
-- *The Atlantic*'s family section op-eds
+### Katrina's Top 10 Books of 2025
 - *Too Big To Fail*
 - *1929: Inside the Greatest Crash in Wall Street History*
 - *A Time to Betray*
@@ -18,6 +16,9 @@ title: Reading
 - *The Body Keeps the Score*
 - *The Wager*
 - *Troubled*
+Bonus content:  
+- Everything on *Rob Henderson's substack*
+- *The Atlantic*'s family section op-eds
 
 ### Favorite reads of 2024
 - *Living a Life of Fire*
