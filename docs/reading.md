@@ -2,10 +2,12 @@
 layout: default
 title: Reading
 ---
-
-### Favorite reads from the last ~year
+### Favorite reads of 2026
+- ???
+### Favorite reads of 2025
 - Everything on *Rob Henderson's substack*
 - *The Atlantic*'s family section op-eds
+- *Too Big To Fail*
 - *1929: Inside the Greatest Crash in Wall Street History*
 - *A Time to Betray*
 - *Everything is Tuberculosis*
@@ -15,6 +17,7 @@ title: Reading
 - *The Body Keeps the Score*
 - *The Wager*
 - *Troubled*
+### Favorite reads of 2024
 - *Living a Life of Fire*
 - *America's Pastor*
 - *Superfood Smoothies: 100 Delicious, Energizing and Nutrient-Dense Recipes*
