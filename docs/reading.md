@@ -3,6 +3,7 @@ layout: default
 title: Reading
 ---
 ### Favorite reads of 2026
+- How to Test Negative for Stupid
 - tbd :)
 
 ### Katrina's Top 10 Books of 2025
