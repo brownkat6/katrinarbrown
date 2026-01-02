@@ -31,6 +31,7 @@ plus the bonus content:
 - *Morning after the Revolution*
 - *Bad Therapy: Why the kids aren't growing up*
 - *Blink*
+- *Outlive*
 - *The Soul of an Octopus*
 - *The Tipping Point*
 - *Outliers*
