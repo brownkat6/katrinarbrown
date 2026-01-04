@@ -3,6 +3,7 @@ layout: default
 title: Reading
 ---
 ### Favorite reads of 2026
+- The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession
 - How to Test Negative for Stupid
 - tbd :)
 
