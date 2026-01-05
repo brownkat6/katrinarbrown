@@ -2,10 +2,11 @@
 layout: default
 title: Reading
 ---
-### Favorite reads of 2026
+### Reads of 2026
+- The Big Short
 - The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession
 - How to Test Negative for Stupid
-- tbd :)
+- tbd :)s
 
 ### Katrina's Top 10 Books of 2025
 - *Too Big To Fail*
