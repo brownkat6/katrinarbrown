@@ -3,10 +3,11 @@ layout: default
 title: Reading
 ---
 ### Reads of 2026
+- The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race
 - The Big Short
 - The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession
 - How to Test Negative for Stupid
-- tbd :)s
+- tbd :)
 
 ### Katrina's Top 10 Books of 2025
 - *Too Big To Fail*
