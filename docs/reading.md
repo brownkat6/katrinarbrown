@@ -3,6 +3,9 @@ layout: default
 title: Reading
 ---
 ### Reads of 2026
+- *Orbital*
+- *Rosarita*
+- *Perfection*
 - *The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race*
 - *The Big Short*
 - *The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession*
