@@ -3,6 +3,9 @@ layout: default
 title: Reading
 ---
 ### Reads of 2026
+- *The Fort Bragg Cartel*
+- *Magic Pill: The Extraordinary Benefits and Disturbing Risks of The New Weight-Loss Drugs*
+- *A World Appears: A journey into consciousness*
 - *And Then There Were None*
 - *Autobiography of Benjamin Franklin*
 - *Stoned: Jewelry, Obsession, and How Desire Shapes the World*
