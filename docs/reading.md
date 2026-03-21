@@ -3,6 +3,7 @@ layout: default
 title: Reading
 ---
 ### Reads of 2026
+- *Seven Brief Lessons on Physics*
 - *The Fort Bragg Cartel*
 - *Magic Pill: The Extraordinary Benefits and Disturbing Risks of the New Weight-Loss Drugs*
 - *A World Appears: A Journey into Consciousness*
@@ -20,7 +21,7 @@ title: Reading
 - *How to Test Negative for Stupid*
 - tbd :)
 
-### Katrina's Top 10 Books of 2025
+### Favorite reads of 2025
 - *Too Big To Fail*
 - *1929: Inside the Greatest Crash in Wall Street History*
 - *A Time to Betray*
@@ -31,8 +32,6 @@ title: Reading
 - *The Body Keeps the Score*
 - *The Wager*
 - *Troubled*
-
-plus the bonus content:  
 - Everything on *Rob Henderson's substack*
 - *The Atlantic*'s family section op-eds
 
