@@ -3,6 +3,7 @@ layout: default
 title: Reading
 ---
 ### Reads of 2026
+- tbd :)
 - *Seven Brief Lessons on Physics*
 - *The Fort Bragg Cartel*
 - *Magic Pill: The Extraordinary Benefits and Disturbing Risks of the New Weight-Loss Drugs*
@@ -19,7 +20,6 @@ title: Reading
 - *The Big Short*
 - *The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession*
 - *How to Test Negative for Stupid*
-- tbd :)
 
 ### Favorite reads of 2025
 - *Too Big To Fail*
