@@ -4,6 +4,8 @@ title: Reading
 ---
 ### Reads of 2026
 - tbd :)
+- *Project Hail Mary*
+- *The Dispossessed*
 - *Seven Brief Lessons on Physics*
 - *The Fort Bragg Cartel*
 - *Magic Pill: The Extraordinary Benefits and Disturbing Risks of the New Weight-Loss Drugs*
