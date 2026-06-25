@@ -4,6 +4,9 @@ title: Reading
 ---
 ### Reads of 2026
 - tbd :)
+- *The Hour of the Star*
+- *This is how you lose the time war
+- *Deluxe: How luxury lost its luster*
 - *Project Hail Mary*
 - *The Dispossessed*
 - *Seven Brief Lessons on Physics*
