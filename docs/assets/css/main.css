@@ -4,7 +4,7 @@
 :root {
     --site-font: 'Lato', Verdana, Helvetica, sans-serif;
     --accent: #663399;
-    --accent-hover: #f09228;
+    --accent-hover: #9370db;
     --accent-soft: #eee6f7;
     --ink: #1a1a2e;
     --text: #000000;
@@ -29,7 +29,7 @@
 @media (prefers-color-scheme: dark) {
     :root {
         --accent: #b79ce8;
-        --accent-hover: #f5a54a;
+        --accent-hover: #d6c4f5;
         --accent-soft: #2f2445;
         --ink: #ececf4;
         --text: #dcdce4;
@@ -65,6 +65,7 @@ a {
 }
 
 a:hover,
+a:active,
 a:focus {
     color: var(--accent-hover);
 }
@@ -205,7 +206,9 @@ h2 {
     color: var(--accent);
 }
 
-a:hover .papertitle { color: var(--accent-hover); }
+a:hover .papertitle,
+a:active .papertitle,
+a:focus .papertitle { color: var(--accent-hover); }
 
 .venue {
     font-style: italic;
