@@ -1,31 +1,31 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="light">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <meta name="author" content="Katrina Brown">
     {% seo %}
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-XXXXXXX');
-    </script>
-    <!-- End Google Analytics -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
-<body class="theme-transition">
-    <div class="container">
-        {% include header.html %}
-        
-        <main class="content">
-            {{ content }}
-        </main>
-    </div>
-    
+<body>
+    <main class="page">
+        {% unless page.url == '/' %}
+        <header class="subpage-header">
+            <a class="subpage-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+            <a class="subpage-back" href="{{ '/' | relative_url }}">&larr; Home</a>
+        </header>
+        {% endunless %}
+
+        {{ content }}
+
+        <footer class="site-footer">
+            Design inspired by <a href="https://aneeshers.github.io/">Aneesh Muppidi</a> and <a href="https://jonbarron.info">Jon Barron</a>.
+        </footer>
+    </main>
+
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
-</html> 
+</html>
