@@ -165,14 +165,15 @@ h2 {
     padding: 2px 0 10px 14px;
     margin: 2px 0 8px 0;
     border-left: 3px solid var(--accent-soft);
+    color: var(--text);
     animation: drop-in 0.3s ease;
 }
 
 .dropdown-content p { margin: 4px 0; }
 
 @keyframes drop-in {
-    from { opacity: 0; transform: translateY(-4px); }
-    to   { opacity: 1; transform: translateY(0); }
+    from { transform: translateY(-4px); }
+    to   { transform: translateY(0); }
 }
 
 /* Rows: publications, experience, "More" ----------------------------------- */
