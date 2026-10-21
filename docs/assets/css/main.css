@@ -3,9 +3,9 @@
    --------------------------------------------------------------------------- */
 :root {
     --site-font: 'Lato', Verdana, Helvetica, sans-serif;
-    --accent: #2549cb;
+    --accent: #663399;
     --accent-hover: #f09228;
-    --accent-soft: #e6eaf9;
+    --accent-soft: #eee6f7;
     --ink: #1a1a2e;
     --text: #000000;
     --muted: #666666;
@@ -28,9 +28,9 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --accent: #8ea6ff;
+        --accent: #b79ce8;
         --accent-hover: #f5a54a;
-        --accent-soft: #232a45;
+        --accent-soft: #2f2445;
         --ink: #ececf4;
         --text: #dcdce4;
         --muted: #9a9aa8;
