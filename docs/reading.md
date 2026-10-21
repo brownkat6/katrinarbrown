@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Reading
 ---
 ### Reads of 2026
