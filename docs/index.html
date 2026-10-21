@@ -32,37 +32,6 @@ title: Home
     </div>
 </section>
 
-<!-- ============================ RECENT NEWS ============================ -->
-<section class="section">
-    <h2>Recent News</h2>
-    <div class="news">
-        <div class="news-item">
-            <span class="news-date">Jul 2025</span>
-            <span><em>Predictive Scheduling for Efficient Inference-Time Reasoning in Large Language Models</em> at the <strong>ES-FoMo III Workshop, ICML 2025</strong>, Vancouver.</span>
-        </div>
-        <div class="news-item">
-            <span class="news-date">Jun 2025</span>
-            <span>Joined <a href="https://www.anthropic.com/"><strong>Anthropic</strong></a> as a researcher on pretraining.</span>
-        </div>
-        <div class="news-item">
-            <span class="news-date">May 2025</span>
-            <span>Graduated <strong>magna cum laude</strong> from Harvard with a degree in Computer Science and Math and a masters degree in Statistics.</span>
-        </div>
-        <div class="news-item">
-            <span class="news-date">Apr 2025</span>
-            <span>Harvard SEAS published a <a href="https://seas.harvard.edu/news/2025/04/senior-project-spotlight-katrina-brown">feature of my senior thesis</a> on <em>Order Dependence in LLMs</em>.</span>
-        </div>
-        <div class="news-item">
-            <span class="news-date">Apr 2025</span>
-            <span>Two workshop papers at <strong>ICLR 2025</strong>, Singapore: <em>Order Independence With Finetuning</em> and <em>Evolutionary Prompt Optimization</em>.</span>
-        </div>
-        <div class="news-item">
-            <span class="news-date">Dec 2024</span>
-            <span><em>Set-Based Prompting</em> at <strong>NeurIPS 2024</strong>, Vancouver.</span>
-        </div>
-    </div>
-</section>
-
 <!-- ============================== RESEARCH ============================= -->
 <section class="section" id="research">
     <h2>Research</h2>
@@ -70,7 +39,6 @@ title: Home
     <p class="section-intro"><span class="equal">*</span> denotes equal contribution. If you're a fan of these topics, let's chat!</p>
 
     <div class="row">
-        <div class="row-media"><div class="tile tile-1"><span class="tile-venue">NeurIPS</span><span class="tile-year">2024</span></div></div>
         <div class="row-body">
             <a href="https://arxiv.org/pdf/2406.06581"><span class="papertitle">Set-Based Prompting: Provably Solving the Language Model Order Dependency Problem</span></a>
             <br>
@@ -83,7 +51,6 @@ title: Home
     </div>
 
     <div class="row">
-        <div class="row-media"><div class="tile tile-2"><span class="tile-venue">ICML</span><span class="tile-year">2025 Workshop</span></div></div>
         <div class="row-body">
             <a href="https://openreview.net/pdf?id=Mn3lrAWy20"><span class="papertitle">Predictive Scheduling for Efficient Inference-Time Reasoning in Large Language Models</span></a>
             <br>
@@ -96,7 +63,6 @@ title: Home
     </div>
 
     <div class="row">
-        <div class="row-media"><div class="tile tile-3"><span class="tile-venue">ICLR</span><span class="tile-year">2025 Workshop</span></div></div>
         <div class="row-body">
             <a href="https://arxiv.org/abs/2503.23483"><span class="papertitle">Order Independence With Finetuning</span></a>
             <br>
@@ -109,7 +75,6 @@ title: Home
     </div>
 
     <div class="row">
-        <div class="row-media"><div class="tile tile-4"><span class="tile-venue">ICLR</span><span class="tile-year">2025 Workshop</span></div></div>
         <div class="row-body">
             <a href="https://arxiv.org/abs/2503.23503"><span class="papertitle">Evolutionary Prompt Optimization Discovers Emergent Multimodal Reasoning Strategies in Vision-Language Models</span></a>
             <br>
@@ -122,7 +87,6 @@ title: Home
     </div>
 
     <div class="row">
-        <div class="row-media"><div class="tile tile-5"><span class="tile-venue">ICML</span><span class="tile-year">2022 Workshop</span></div></div>
         <div class="row-body">
             <a href="https://arxiv.org/pdf/2412.18059"><span class="papertitle">Diverse Concept Proposals for Concept Bottleneck Models</span></a>
             <br>
@@ -133,23 +97,6 @@ title: Home
             <a href="https://arxiv.org/pdf/2412.18059">paper</a>
         </div>
     </div>
-</section>
-
-<!-- ======================== INDUSTRY EXPERIENCE ======================== -->
-<section class="section" id="industry">
-    <h2>Industry Experience</h2>
-    <p class="section-intro">My industry experience spans <strong>software engineering, systems programming, quantitative trading, quantitative research</strong>, and <strong>ML research engineering</strong> across startups, Big Tech, and prop trading firms.</p>
-
-    {% for job in site.data.industry %}
-    <div class="row">
-        <div class="row-media"><span class="exp-date">{{ job.dates }}</span></div>
-        <div class="row-body">
-            <a href="{{ job.url }}"><span class="papertitle">{{ job.company }}</span></a>
-            <br>
-            <span class="venue">{{ job.role }}</span>
-        </div>
-    </div>
-    {% endfor %}
 </section>
 
 <!-- ============================== TEACHING ============================= -->

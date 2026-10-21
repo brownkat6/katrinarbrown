@@ -14,7 +14,7 @@
     --rule: #ececf2;
     --equal: #8a1c1c;
 
-    /* pastel tiles used beside publications and "More" rows */
+    /* pastel label colors for the colored boxes */
     --tile-1: #cfc9f7;
     --tile-2: #edd892;
     --tile-3: #c7e4d3;
@@ -175,27 +175,6 @@ h2 {
     to   { opacity: 1; transform: translateY(0); }
 }
 
-/* Recent news -------------------------------------------------------------- */
-.news {
-    max-height: 195px;
-    overflow-y: auto;
-    padding: 0 8px 0 14px;
-    border-left: 3px solid var(--accent);
-}
-
-.news-item {
-    display: flex;
-    gap: 12px;
-    margin: 6px 0;
-}
-
-.news-date {
-    flex: 0 0 72px;
-    color: var(--muted);
-    font-weight: 700;
-    white-space: nowrap;
-}
-
 /* Rows: publications, experience, "More" ----------------------------------- */
 .row {
     display: flex;
@@ -237,38 +216,6 @@ a:hover .papertitle { color: var(--accent-hover); }
     font-weight: 700;
 }
 
-/* square venue tile in place of a paper thumbnail */
-.tile {
-    width: 120px;
-    height: 120px;
-    border-radius: 4px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    color: var(--ink);
-    line-height: 1.2;
-    padding: 8px;
-}
-
-.tile-venue {
-    font-size: 18px;
-    font-weight: 700;
-}
-
-.tile-year {
-    font-size: 13px;
-    margin-top: 4px;
-    opacity: 0.75;
-}
-
-.tile-1 { background-color: var(--tile-1); }
-.tile-2 { background-color: var(--tile-2); }
-.tile-3 { background-color: var(--tile-3); }
-.tile-4 { background-color: var(--tile-4); }
-.tile-5 { background-color: var(--tile-5); }
-
 /* rounded label box, as in the "More" section */
 .colored-box {
     display: inline-block;
@@ -281,14 +228,6 @@ a:hover .papertitle { color: var(--accent-hover); }
     margin: 0;
     font-size: 18px;
     line-height: 1.3;
-}
-
-.exp-date {
-    color: var(--muted);
-    font-weight: 700;
-    white-space: nowrap;
-    font-size: 13px;
-    text-align: center;
 }
 
 .methodlabel {
@@ -371,13 +310,7 @@ a:hover .papertitle { color: var(--accent-hover); }
 
     .row-media { flex: 0 0 104px; width: 104px; padding: 8px 8px 8px 0; }
 
-    .tile { width: 96px; height: 96px; }
-
-    .tile-venue { font-size: 15px; }
-
     .colored-box { padding: 10px; width: 100%; }
 
     .colored-box h2 { font-size: 14px; }
-
-    .news-date { flex-basis: 64px; }
 }

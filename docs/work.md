@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_to: /#industry
+redirect_to: /
 sitemap: false
 ---
