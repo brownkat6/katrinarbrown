@@ -9,6 +9,7 @@
     --ink: #1a1a2e;
     --text: #000000;
     --muted: #666666;
+    --soft-text: #4a4a4a;
     --venue: #444444;
     --bg: #ffffff;
     --rule: #ececf2;
@@ -34,6 +35,7 @@
         --ink: #ececf4;
         --text: #dcdce4;
         --muted: #9a9aa8;
+        --soft-text: #b4b4c0;
         --venue: #b0b0bc;
         --bg: #14141c;
         --rule: #2a2a36;
@@ -166,7 +168,7 @@ h2 {
     padding: 2px 0 10px 14px;
     margin: 2px 0 8px 0;
     border-left: 3px solid var(--accent-soft);
-    color: var(--text);
+    color: var(--soft-text);
     animation: drop-in 0.3s ease;
 }
 
